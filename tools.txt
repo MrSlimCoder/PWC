@@ -1,0 +1,8 @@
+https://nodejs.org/en/download/
+https://www.npmjs.com/
+https://expressjs.com/
+https://www.mongodb.com/try/download/community
+https://www.mongodb.com/products/compass
+https://github.com/facebook/create-react-app
+https://www.postman.com/downloads/
+https://code.visualstudio.com/

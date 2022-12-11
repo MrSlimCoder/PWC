@@ -1,0 +1,13 @@
+MERN Stack
+
+M - MongoDB (No SQL Database)
+E - Express.js (Framework - REST API) - Get, Post, Put etc
+R - React.js (Library - Frontend)
+N - Node (Runtime Environment - Run JavaScript outside browser)
+
+MEAN Stack 
+
+M - MongoDB (No SQL Database)
+E - Express.js (Framework - REST API) - Get, Post, Put etc
+A - Angular (Framework - Frontend)
+N - Node (Runtime Environment - Run JavaScript outside browser)
